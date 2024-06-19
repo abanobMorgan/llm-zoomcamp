@@ -1,0 +1,6 @@
+tdqm==0.0.1
+notebook==7.1.1
+openai==1.34.0 
+elasticsearch==8.14.0
+pandas==2.2.2 
+scikit-learn==1.5.0
